@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\eyupe\\onedrive\\masa\u00FCst\u00FC\\stoky\u00F6netimi\\stoky\u00F6netimi\\stoky\u00F6netimi\\model\\adminsipari\u015Fonayla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\adminsipari\u015Fonayla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\adminsipari\u015Fonayla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\adminsipari\u015Fonayla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\kullanicieklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\kullanicieklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\kullanicieklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\kullanicieklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\kullaniciguncellepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\kullaniciguncellepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\kullaniciguncellepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\kullaniciguncellepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\stokyoneti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\stokyoneti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\stokyoneti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\stokyoneti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\updateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\updateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\updateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\updateproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\logpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\logpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\logpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\logpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\view\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\view\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\view\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\view\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\uruneklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\uruneklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\view\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\view\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\view\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\view\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\urunkarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\urunkarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\urunkarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\urunkarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\uruneklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\uruneklepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\urunal\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\urunal\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\model\\urunal\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\model\\urunal\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\stoky\u00F6netimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4EFF9-3C98-4924-B193-51CC4A1E85D9}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 355,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminSipari\u015FOnayla.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:41:37.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KullaniciGuncellePanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:36:41.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KullaniciGuncellePanel.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\KullaniciGuncellePanel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:40:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KullaniciEklePanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:08:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KullaniciEklePanel.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\KullaniciEklePanel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:40:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GecmisSiparisler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\GecmisSiparisler.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\GecmisSiparisler.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\GecmisSiparisler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\GecmisSiparisler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:08:15.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GecmisSiparisler.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\GecmisSiparisler.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\GecmisSiparisler.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\GecmisSiparisler.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\GecmisSiparisler.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:41:12.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminSipari\u015FOnayla.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\AdminSipari\u015FOnayla.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:14:12.343Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KullaniciYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:40:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KullaniciYonetimi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\KullaniciYonetimi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:08:18.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StokYoneti.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\StokYoneti.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\StokYoneti.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\StokYoneti.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\StokYoneti.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:40:21.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StokYoneti.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\StokYoneti.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\StokYoneti.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\StokYoneti.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\StokYoneti.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:08:19.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UpdateProductForm.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UpdateProductForm.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UpdateProductForm.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UpdateProductForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:40:15.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UpdateProductForm.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UpdateProductForm.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UpdateProductForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UpdateProductForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:08:21.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogPanel.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\LogPanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\LogPanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\LogPanel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\LogPanel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:39:00.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\LogPanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\LogPanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\LogPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\LogPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:38:59.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\packages.config",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\packages.config",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\packages.config",
+              "RelativeToolTip": "StokY\u00F6netimi\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-30T15:38:46.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\Form1.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\View\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:39:16.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\View\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:16.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\View\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\AdminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\View\\AdminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:15.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KullaniciPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\KullaniciPanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\View\\KullaniciPanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\KullaniciPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\View\\KullaniciPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:17.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UrunEklePanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunEklePanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UrunEklePanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunEklePanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UrunEklePanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KullaniciPanel.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\KullaniciPanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\View\\KullaniciPanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\KullaniciPanel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\View\\KullaniciPanel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:39:13.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrunKarti.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunKarti.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UrunKarti.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunKarti.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UrunKarti.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:52:22.058Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\View\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\View\\AdminPanel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\View\\AdminPanel.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:38:32.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UrunEklePanel.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunEklePanel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UrunEklePanel.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunEklePanel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UrunEklePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:39:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UrunAl\u0131m.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:40:03.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UrunAl\u0131m.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UrunAl\u0131m.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UrunKarti.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunKarti.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Model\\UrunKarti.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Model\\UrunKarti.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StokY\u00F6netimi\\Model\\UrunKarti.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:37:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\App.config",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\App.config",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\App.config",
+              "RelativeToolTip": "StokY\u00F6netimi\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-30T15:39:09.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Program.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Program.cs",
+              "ToolTip": "C:\\Users\\eyupe\\OneDrive\\Masa\u00FCst\u00FC\\StokY\u00F6netimi\\StokY\u00F6netimi\\StokY\u00F6netimi\\Program.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T15:38:46.986Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
